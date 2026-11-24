@@ -1,0 +1,11 @@
+# Pré-publicação
+- [ ] Titularidade confirmada
+- [ ] Autorização de publicação confirmada
+- [ ] Modelo OSS/proprietário/híbrido definido
+- [ ] Conteúdo classificado A/B/C/D
+- [ ] Segredos e dados sensíveis triados
+- [ ] Histórico Git auditado
+- [ ] Licenças e NOTICE revisados
+- [ ] README e setup verificados
+- [ ] Screenshots reais revisados
+- [ ] Aprovação explícita para repo, visibilidade, commit e push

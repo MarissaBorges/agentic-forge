@@ -1,0 +1,8 @@
+# Core CLI: Python 3.10+, standard library only
+# Optional integrations:
+# pip install detect-secrets
+# pip install cyclonedx-bom
+# pip install licensecheck
+# pip install beautifulsoup4
+# pip install pillow pytesseract
+# pip install pytest
