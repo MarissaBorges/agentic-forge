@@ -1,11 +1,29 @@
-# Agentic Forge ⚒️
+<!-- BADGES -->
 
-> **Repositório central de habilidades modulares, runbooks de engenharia e ferramentas de governança para agentes de inteligência artificial autônomos.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Est%C3%A1vel-brightgreen?style=for-the-badge" alt="Status: Estável">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/Antigravity-Compatible-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity Compatible">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License: MIT">
+  <img src="https://img.shields.io/badge/Showcase%20Score-65%2F100-brightgreen?style=for-the-badge" alt="Showcase Quality Score: 65/100">
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Antigravity Compatible](https://img.shields.io/badge/Antigravity-Compatible-4285F4.svg)](#compatibilidade)
-[![Quality Score](https://img.shields.io/badge/Showcase%20Score-65%2F100-brightgreen.svg)](#auditoria-e-qualidade)
-[![Skills Count](https://img.shields.io/badge/Skills-1%20Ativa-informational.svg)](#catálogo-de-skills)
+<h1 align="center">Agentic Forge ⚒️</h1>
+
+<p align="center">
+  <strong>Repositório central de habilidades modulares, runbooks de engenharia e ferramentas de governança para agentes de inteligência artificial autônomos.</strong>
+</p>
+
+<p align="center">
+  <a href="#-visão-geral">Visão Geral</a> •
+  <a href="#️-catálogo-de-skills">Catálogo de Skills</a> •
+  <a href="#-destaque-showcase-engineer">Showcase Engineer</a> •
+  <a href="#-estrutura-do-repositório">Estrutura</a> •
+  <a href="#-como-instalar-e-usar-no-antigravity">Como Usar</a> •
+  <a href="#-testes-e-verificação">Testes</a> •
+  <a href="#-licença">Licença</a> •
+  <a href="#-colaboradores">Colaboradores</a>
+</p>
 
 ---
 
@@ -139,4 +157,23 @@ Distribuído sob a licença **MIT**. Consulte o arquivo [LICENSE](./LICENSE) par
 
 ---
 
-**Desenvolvido com foco em excelência e segurança operacional para a era agêntica.**
+## 🤝 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MarissaBorges">
+        <img src="https://github.com/MarissaBorges.png?size=100" width="100px;" alt="Foto de Marissa Borges"/><br>
+        <sub>
+          <b>Marissa Borges</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <sub>Agentic Forge — Forja de habilidades modulares e governança para a era agêntica.</sub>
+</p>
