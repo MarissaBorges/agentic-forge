@@ -44,7 +44,7 @@ Cada habilidade contida neste ecossistema é projetada com quatro pilares inegoc
 | Skill | Versão | Status | Descrição | Diretório |
 |---|---|---|---|---|
 | **[Showcase Engineer](#-destaque-showcase-engineer)** | `v1.0.0` | 🟢 Estável | Audita, prepara, sanitiza e gera showcases públicos de projetos no GitHub com controle rigoroso de propriedade intelectual e segredos. | [`skills/showcase-engineer`](./skills/showcase-engineer) |
-| *Novas skills em forja...* | — | 🟡 Em planejamento | Em breve novas capacidades de engenharia reversa, benchmarking e migração assistida. | — |
+| **Session Manager** | `v1.0.0` | 🟢 Estável | Agente autônomo, adaptativo e multiplataforma para recuperação de contexto, rastreamento de tarefas, handoffs, ADRs, diagnóstico de performance e auditoria de integridade. | [`skills/session-manager`](./skills/session-manager) |
 
 ---
 

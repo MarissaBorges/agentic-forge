@@ -1,0 +1,10 @@
+[project]
+name = "session-manager-skill"
+version = "1.0.0"
+description = "Cross-agent development session and context management skill"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

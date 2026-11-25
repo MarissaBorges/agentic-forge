@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "project_context": "PROJECT_CONTEXT.md",
+  "state_dir": ".session-manager",
+  "session_file": ".session-manager/SESSION.md",
+  "tasks_file": ".session-manager/TASKS.md",
+  "database_file": ".session-manager/index.sqlite",
+  "timezone": "UTC",
+  "task_id_prefix": "SM",
+  "sqlite_gitignored_by_default": true,
+  "max_session_lines": 150,
+  "max_session_bytes": 12288,
+  "archive_completed": false
+}
